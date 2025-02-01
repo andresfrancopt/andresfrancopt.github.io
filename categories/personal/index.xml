@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Personal on Andrés Franco</title>
-        <link>http://andresfrancopt.github.io/categories/personal/</link>
+        <link>http://localhost:1313/categories/personal/</link>
         <description>Recent content in Personal on Andrés Franco</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Andrés Franco</copyright>
-        <lastBuildDate>Sat, 01 Feb 2025 22:00:24 +0000</lastBuildDate><atom:link href="http://andresfrancopt.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Feb 2025 22:00:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Why I Started This Blog and What You Will Find Here</title>
-        <link>http://andresfrancopt.github.io/posts/my-first-post/</link>
+        <link>http://localhost:1313/posts/my-first-post/</link>
         <pubDate>Sat, 01 Feb 2025 22:00:24 +0000</pubDate>
         
-        <guid>http://andresfrancopt.github.io/posts/my-first-post/</guid>
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
         <description>&lt;h2 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog! 🚀
 &lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve always been passionate about technology, especially networking, AI more recently, and exploring new tech trends. This blog is my space to share what I learn and help others along the way.&lt;/p&gt;
 &lt;h3 id=&#34;what-to-expect&#34;&gt;What to Expect

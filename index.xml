@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Andrés Franco</title>
-        <link>http://andresfrancopt.github.io/</link>
+        <link>http://localhost:1313/</link>
         <description>Recent content on Andrés Franco</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Andrés Franco</copyright>
-        <lastBuildDate>Sat, 01 Feb 2025 22:00:24 +0000</lastBuildDate><atom:link href="http://andresfrancopt.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 01 Feb 2025 22:00:24 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Why I Started This Blog and What You Will Find Here</title>
-        <link>http://andresfrancopt.github.io/posts/my-first-post/</link>
+        <link>http://localhost:1313/posts/my-first-post/</link>
         <pubDate>Sat, 01 Feb 2025 22:00:24 +0000</pubDate>
         
-        <guid>http://andresfrancopt.github.io/posts/my-first-post/</guid>
+        <guid>http://localhost:1313/posts/my-first-post/</guid>
         <description>&lt;h2 id=&#34;welcome-to-my-blog-&#34;&gt;Welcome to My Blog! 🚀
 &lt;/h2&gt;&lt;p&gt;I&amp;rsquo;ve always been passionate about technology, especially networking, AI more recently, and exploring new tech trends. This blog is my space to share what I learn and help others along the way.&lt;/p&gt;
 &lt;h3 id=&#34;what-to-expect&#34;&gt;What to Expect
@@ -26,11 +26,11 @@
         </item>
         <item>
         <title>About Me</title>
-        <link>http://andresfrancopt.github.io/about-me/</link>
+        <link>http://localhost:1313/about-me/</link>
         <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://andresfrancopt.github.io/about-me/</guid>
-        <description>&lt;img src="http://andresfrancopt.github.io/about-me/connected-futuristic-technology-background.jpeg" alt="Featured image of post About Me" /&gt;&lt;h3 id=&#34;who-is-andrés-franco&#34;&gt;&lt;strong&gt;Who is Andrés Franco?&lt;/strong&gt;
+        <guid>http://localhost:1313/about-me/</guid>
+        <description>&lt;img src="http://localhost:1313/about-me/connected-futuristic-technology-background.jpeg" alt="Featured image of post About Me" /&gt;&lt;h3 id=&#34;who-is-andrés-franco&#34;&gt;&lt;strong&gt;Who is Andrés Franco?&lt;/strong&gt;
 &lt;/h3&gt;&lt;p&gt;Hi, I’m &lt;strong&gt;Andrés Franco&lt;/strong&gt;, a Telecommunication Engineer from Venezuela 🇻🇪, currently based in Portugal. I have a passion for networking, AI, and all things tech. My main focus is helping customers adopt Cisco technologies for Enterprise Campus Networks, including Catalyst Center, SD-Access, and associated devices.&lt;/p&gt;
 &lt;p&gt;This blog is my personal space to share insights, experiments, and discoveries in networking, AI, and beyond. Whether it’s deep dives into Cisco, exploring Splunk, thoughts on the latest tech trends, or just documenting my learning journey, you’ll find it all here. I’m always eager to tinker with technology in my spare time, learning new things and staying up to date in this ever-evolving field.&lt;/p&gt;
 &lt;p&gt;Beyond tech, I enjoy photography—especially capturing open spaces and architecture—and I’m always up for exploring new places, particularly around Lisbon. I also have an interest in online business, content creation, and finding new ways to share knowledge.&lt;/p&gt;
@@ -60,18 +60,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>http://andresfrancopt.github.io/archives/</link>
+        <link>http://localhost:1313/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://andresfrancopt.github.io/archives/</guid>
+        <guid>http://localhost:1313/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://andresfrancopt.github.io/search/</link>
+        <link>http://localhost:1313/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://andresfrancopt.github.io/search/</guid>
+        <guid>http://localhost:1313/search/</guid>
         <description></description>
         </item>
         
